@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "dependencies": {
     "@types/core-js": "0.9.42",
-    "axios": "0.16.2",
+    "axios": "0.21.1",
     "core-js": "2.4.1",
     "entcore": "3.12.2",
     "entcore-toolkit": "^1.0.1",
